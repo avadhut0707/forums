@@ -48,7 +48,7 @@ Follow these steps to set up **Forums** locally using WAMP/XAMPP:
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/forums.git
+git clone https://github.com/avadhut0707/forums.git
 ```
 
 ### 2️ Import the Database
